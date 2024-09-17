@@ -1,0 +1,5 @@
+true
+true
+{} { name: 'J.D', language: 'JavaScript' } false
+true { name: 'J.D', language: 'JavaScript' }
+{ name: 'john', language: 'JavaScript' } { name: 'john', language: 'JavaScript' } { name: 'john', language: 'JavaScript' }

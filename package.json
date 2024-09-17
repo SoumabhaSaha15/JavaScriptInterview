@@ -1,0 +1,13 @@
+{
+  "name": "javascriptinterview",
+  "version": "1.0.0",
+  "description": "javascript interview preparation.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "exec": "node index.js"
+  },
+  "keywords": [],
+  "author": "Soumabha Saha",
+  "license": "ISC"
+}
